@@ -11,7 +11,6 @@
 # 🚀 About me
 - 🌱 I’m currently learning **Machine Learning and Deep learning**.
 - 🎯 I am open to take jobs and get hired as a frontend/backend developer! 
-- 
 <br/>
 <br />
 <h1 align="left">⚡ Languages and Tools:</h1>
