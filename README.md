@@ -1,3 +1,6 @@
+<div align="center">
+ <img src="gitartwork.svg" />
+</div>
 ### Hi there 👋
 
 <!--
